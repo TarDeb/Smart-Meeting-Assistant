@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+vosk
+spacy
+openai
