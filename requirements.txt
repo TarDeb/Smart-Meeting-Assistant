@@ -1,5 +1,30 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 vosk
 spacy
 openai
+pyaudio==0.2.11
+SpeechRecognition==3.10.0
+pocketsphinx==0.1.15
+wave
+threading
+datetime
+tkinter
+os
+json
+streamlit==1.28.0
+plotly==5.17.0
+numpy==1.24.0
+pandas==2.0.0
+sounddevice
+scipy
+pycaw
+comtypes
+=======
+fastapi
+uvicorn
+vosk
+spacy
+openai
+>>>>>>> 3bac854e4f4370cb0e196d3fab9eaac203402b44
