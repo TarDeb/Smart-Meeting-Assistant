@@ -1,6 +1,7 @@
 # Smart Meeting Assistant
 
 A comprehensive Python application that records meetings and provides **real-time transcription** with both desktop GUI and system audio recording capabilities.
+![Alt text](a.png)
 
 ## Features
 
@@ -52,4 +53,5 @@ A comprehensive Python application that records meetings and provides **real-tim
 - `static/` - CSS and JavaScript files
 - `temp/` - Temporary audio files (auto-created)
 - `transcriptions/` - Saved transcription files (auto-created)
+
 
